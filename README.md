@@ -2,9 +2,7 @@
 
 <!--
 **YWondimu/ywondimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Please feel free to peruse my github. I am currently looking for work in cybersecurity, AI, and/or web development. I'm building a portfolio page that would illustrate my current ability / achievements in these areas!
+
+
