@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Please feel free to peruse my github. I am currently looking for work in cybersecurity, AI, and/or web development. I'm building a portfolio page that would illustrate my current ability / achievements in these areas!
+Welcome to my github page! 
+
+Looking to hire someone? I am currently looking for work in cybersecurity, AI, and/or web development, and I'm building a portfolio page that would illustrate my current ability / achievements in these areas. Will add here when ready!
 
 
